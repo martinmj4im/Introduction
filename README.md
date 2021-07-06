@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @martinmj4im
-- 👀 I’m interested in ...Azure
+- 👀 I’m interested in ...Azure, and github
 - 🌱 I’m currently learning ...Github
 - 💞️ I’m looking to collaborate on ... whatever I can collaborate on
 - 📫 How to reach me ...by phone and email
