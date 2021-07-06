@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martinmj4im
+- 👋 Hi, I’m @martinmj4im and I've made changes to the remote
 - 👀 I’m interested in ...Azure, and github
 - 🌱 I’m currently learning ...Github
 - 💞️ I’m looking to collaborate on ... whatever I can collaborate on
